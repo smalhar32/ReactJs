@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: rgb(27, 27, 27);
+  color: white;
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+  background-color: rgb(108, 126, 228);
+  border-radius: 10px;
+  margin: 5px;
+  padding: 20px;
+}
+.card{
+  background-color: rgb(154, 45, 63);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  height: 200px;
+  width: 275px;
+}
+
+.card-container{
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+}
