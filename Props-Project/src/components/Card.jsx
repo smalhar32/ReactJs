@@ -18,7 +18,7 @@ const Card = (props) => {
           <h3>{props.company}</h3>
           <h6 className="updates">{props.updated}</h6>
         </div>
-        <h3>{props.designation} </h3>
+        <h3 className="designation">{props.designation} </h3>
         <div className="job-type">
           <h5>{props.jobtype} </h5>
           <h5>{props.post} </h5>

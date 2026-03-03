@@ -25,10 +25,10 @@ body {
   background-color: #fff;
   color: #111;
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   margin: 10px;
   padding: 20px;
-  width: 300px;
+  width: 280px;
   height: 320px;
 }
 
@@ -45,6 +45,7 @@ body {
 }
 
 .save {
+  cursor: pointer;
   height: 30px;
   align-items: center;
   display: flex;
@@ -70,6 +71,10 @@ body {
 
 .updates {
   color: rgb(123, 123, 123);
+}
+
+.designation{
+  font-size: 22px;
 }
 
 .job-type {
@@ -102,8 +107,10 @@ body {
 }
 
 .apply {
+  cursor: pointer;
   background-color: #111;
   color: #fff;
+  border: none;
   border-radius: 5px;
   padding: 0 10px;
 }
