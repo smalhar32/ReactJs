@@ -23,7 +23,7 @@ const App = () => {
         post="Flexible schedule"
         fee="$150-220K"
         location="Mountain View, CA"
-      />
+      /> 
       <Card
         img="https://cdn-icons-png.flaticon.com/128/4401/4401391.png"
         company="Dribble"
