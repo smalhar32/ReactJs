@@ -63,6 +63,56 @@ const App = () => {
       fee: "$85-120k",
       location: "Cupertino, CA",
     },
+    {
+      img: "https://cdn-icons-png.flaticon.com/128/732/732228.png", // Netflix
+      company: "Netflix",
+      updated: "2 days ago",
+      designation: "Product Designer",
+      jobtype: "Full-time",
+      post: "Mid level",
+      fee: "$180-210k",
+      location: "Los Angeles, CA",
+    },
+    {
+      img: "https://cdn-icons-png.flaticon.com/128/732/732221.png", // Microsoft
+      company: "Microsoft",
+      updated: "10 days ago",
+      designation: "UX Researcher",
+      jobtype: "Full-time",
+      post: "Senior level",
+      fee: "$160-190k",
+      location: "Seattle, WA",
+    },
+    {
+      img: "https://cdn-icons-png.flaticon.com/128/2111/2111624.png", // Spotify
+      company: "Spotify",
+      updated: "7 days ago",
+      designation: "UI Designer",
+      jobtype: "Contract",
+      post: "Remote",
+      fee: "$95/hr",
+      location: "Stockholm, Sweden",
+    },
+    {
+      img: "https://cdn-icons-png.flaticon.com/128/5968/5968371.png", // Tesla
+      company: "Tesla",
+      updated: "12 days ago",
+      designation: "Visual Designer",
+      jobtype: "Full-time",
+      post: "In office",
+      fee: "$140-175k",
+      location: "Austin, TX",
+    },
+    {
+      img: "https://cdn-icons-png.flaticon.com/128/732/732238.png", // Adobe
+      company: "Adobe",
+      updated: "4 days ago",
+      designation: "Interaction Designer",
+      jobtype: "Full-time",
+      post: "Flexible schedule",
+      fee: "$130-160k",
+      location: "San Jose, CA",
+    },
   ];
 
   return (
